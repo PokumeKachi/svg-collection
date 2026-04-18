@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.88526711"
-     inkscape:cx="493.07152"
-     inkscape:cy="361.47282"
+     inkscape:zoom="3.5410684"
+     inkscape:cx="593.46495"
+     inkscape:cy="304.71029"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -97,19 +97,19 @@
        inkscape:label="center divider" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.07107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
-       id="rect2"
-       width="1.8897638"
-       height="793.70081"
-       x="654.80316"
-       y="0"
-       inkscape:label="right side divider" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.07107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
        id="rect3"
        width="1.8897638"
        height="793.70081"
-       x="465.82678"
+       x="664.25201"
        y="0"
-       inkscape:label="left side divider" />
+       inkscape:label="center divider" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.07107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
+       id="rect4"
+       width="1.8897638"
+       height="793.70081"
+       x="456.37796"
+       y="0"
+       inkscape:label="center divider" />
   </g>
 </svg>
