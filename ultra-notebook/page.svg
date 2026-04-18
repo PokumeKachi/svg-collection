@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="page.svg"
    inkscape:export-filename="drawing.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -18,17 +18,17 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#505050"
-     bordercolor="#ffffff"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
      borderopacity="1"
      inkscape:showpageshadow="0"
      inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
+     inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="3.5410684"
-     inkscape:cx="593.46495"
-     inkscape:cy="304.71029"
+     inkscape:zoom="1.7705342"
+     inkscape:cx="522.72359"
+     inkscape:cy="467.09067"
      inkscape:window-width="1920"
      inkscape:window-height="1048"
      inkscape:window-x="0"
@@ -76,7 +76,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
+       style="fill:#000000;fill-opacity:0.15000001;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
        id="path1"
        inkscape:path-effect="#path-effect1"
        sodipodi:type="arc"
@@ -88,7 +88,7 @@
        transform="translate(-340.61004,-255.3744)"
        inkscape:label="dots" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.07107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
+       style="fill:#000000;fill-opacity:0.15000001;stroke:none;stroke-width:7.07107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
        id="rect1"
        width="1.8897638"
        height="793.70081"
@@ -96,7 +96,7 @@
        y="0"
        inkscape:label="center divider" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.07107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
+       style="fill:#000000;fill-opacity:0.15000001;stroke:none;stroke-width:7.07107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
        id="rect3"
        width="1.8897638"
        height="793.70081"
@@ -104,7 +104,7 @@
        y="0"
        inkscape:label="center divider" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.07107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
+       style="fill:#000000;fill-opacity:0.15000001;stroke:none;stroke-width:7.07107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:fill markers stroke"
        id="rect4"
        width="1.8897638"
        height="793.70081"
